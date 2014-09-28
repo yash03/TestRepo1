@@ -1,10 +1,10 @@
-yash03 - Line two modified !
 y1ash - This is the third
+y1ash - Removed the first line !
 yash03 - This was fourth - modified
 y1ash - Okay this is the fifth line
 yash03 - We are on seventh here, Modified !
-yash03 - Let's add a line more !
-y1ash - Did not like line 6, so Deleted....7!
+y1ash - Let's add a line more, added so many lines ! - modified
+y1ash - Did not like line 6, so Deleted....7! - Modified !!
 y1ash - Alright on eight
 yash03 - Not getting closer ! ninth - modified 
 y1ash - Final line 10 !
